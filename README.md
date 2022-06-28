@@ -1,7 +1,7 @@
 
 # hello-project
 
-# Description the project.
+# Description of the project.
 
 This project purpose is to master git and github and build project as a professional software developer.
 
